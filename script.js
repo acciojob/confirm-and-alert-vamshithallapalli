@@ -7,7 +7,7 @@ function showConfirmation(){
 		alert('You clicked OK. Proceeding...');
 	}
 	else{
-		alert('You clicked Cancel. Existing...');
+		alert('You clicked  Cancel. Exiting...');
 	}
 }
 
